@@ -1,2 +1,2 @@
 # Python-for-ML
-This repository contains 2 Jupyter notebooks with fundamentals of Python for Machine Learning and implementation of basic ML models
+This repository contains Jupyter notebook of implementation of basic ML models with step by step fundamentals explanation.
